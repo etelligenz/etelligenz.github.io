@@ -11,7 +11,7 @@ const currentYear = new Date().getFullYear();
 const newYearTime = new Date(`August 15 ${currentYear + 1} 12:00:00`);
 
 // text
-year.innerText = 'etelligenz 3.0';
+year.innerText = 'etelligenz.com';
 
 // Update countdown time
 function updateCountdown() {
